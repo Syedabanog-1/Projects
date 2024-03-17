@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "CLI Calculator",
+  "main": "CLI-Calculator.js",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.3",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Syeda Gulzar Bano",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
